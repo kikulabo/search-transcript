@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ディレクトリ
+.DS_Store
+
+# 環境変数
+.envrc
